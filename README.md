@@ -41,9 +41,6 @@ You might be interested in:
 
 * [Initial project proposition](https://github.com/ohbm/hackathon2020/issues/149)
 
-## Thank you
-Thank you so much for visiting the project and we do hope that you'll join us :)
-
 ## Glossary
 * **CCA**: Canonical Correlation Analysis
 * **PLS**: Partial Least Square
