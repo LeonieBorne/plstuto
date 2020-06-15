@@ -32,7 +32,9 @@ We need expertise in Python, tutorial redaction (Jupyter Notebook) and of course
 Coming soon: [Contributors' guidelines](CONTRIBUTING.md) and Roadmap
 
 ## Contact us
-During the OHBM Hackathon 2020 (June 16 to 18), join us to discuss the project by [video](https://meet.jit.si/PLStuto) or [chat](https://mattermost.brainhack.org/brainhack/channels/pls-tuto).
+During the OHBM Hackathon 2020 (June 16 to 18), let's chat on <a href="https://mattermost.brainhack.org/brainhack/channels/pls-tuto">
+  <img src="http://www.mattermost.org/wp-content/uploads/2016/03/logoHorizontal.png" width=100px>
+</a>
 
 If you want to report a problem or suggest an enhancement we'd love for you to [open an issue](../../issues) at this github repository because then we can get right on it. But you can also contact [Léonie Borne](https://www.newcastle.edu.au/profile/leonie-borne-749) by email (leonie.borne AT gmail DOT com) or on [twitter](https://twitter.com/LeonieBorne).
 
