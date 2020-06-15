@@ -29,7 +29,9 @@ We need expertise in Python, tutorial redaction (Jupyter Notebook) and of course
 
 ## How can you get involved?
 
-Coming soon: [Contributors' guidelines](CONTRIBUTING.md) and Roadmap
+In order to help the development of this project, please check out the [contributors' guidelines](CONTRIBUTING.md) and the [roadmap](../../issues/3).
+
+During the OHBM Hackathon 2020, please check the [kanban board](https://github.com/LeonieBorne/plstuto/projects/1) to track the progress of the project.
 
 ## Contact us
 During the OHBM Hackathon 2020 (June 16 to 18), let's chat on <a href="https://mattermost.brainhack.org/brainhack/channels/pls-tuto">
@@ -42,13 +44,13 @@ If you want to report a problem or suggest an enhancement we'd love for you to [
 You might be interested in:
 
 * [Initial project proposition](https://github.com/ohbm/hackathon2020/issues/149)
+* [Roadmap](../../issues/3)
+* [Contributors' guidelines](CONTRIBUTING.md)
+* [Kanban board for OHBM Hackathon 2020](https://github.com/LeonieBorne/plstuto/projects/1)
 
 ## Glossary
 * **CCA**: Canonical Correlation Analysis
 * **PLS**: Partial Least Square
 * **PLS-PM**: Partial Least Square Path Modeling
-
-## Bibliography
-[[1]] Wang, Hao-Ting, et al. "Finding the needle in a high-dimensional haystack: Canonical correlation analysis for neuroscientists." NeuroImage (2020): 116745.
-
-[1]: https://doi.org/10.1016/j.neuroimage.2020.116745
+* **PCA**: Principal Component Analysis
+* **ICA**: Independent Component Analysis
