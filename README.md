@@ -1,6 +1,6 @@
 # CCA/PLS tutorials in Python
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ***Tutorials to apply cross decomposition methods in Python (focus on application in neuroimaging)***
 
@@ -73,6 +73,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/LeonieBorne"><img src="https://avatars0.githubusercontent.com/u/19991748?v=4" width="100px;" alt=""/><br /><sub><b>Léonie Borne</b></sub></a><br /><a href="#design-LeonieBorne" title="Design">🎨</a> <a href="https://github.com/LeonieBorne/plstuto/commits?author=LeonieBorne" title="Code">💻</a> <a href="#tutorial-LeonieBorne" title="Tutorials">✅</a></td>
+    <td align="center"><a href="https://wanghaoting.com/"><img src="https://avatars3.githubusercontent.com/u/13743617?v=4" width="100px;" alt=""/><br /><sub><b>Hao-Ting Wang</b></sub></a><br /><a href="#ideas-htwangtw" title="Ideas, Planning, & Feedback">🤔</a> <a href="#question-htwangtw" title="Answering Questions">💬</a></td>
   </tr>
 </table>
 
