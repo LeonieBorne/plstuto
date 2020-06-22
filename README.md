@@ -1,6 +1,6 @@
 # CCA/PLS tutorials in Python
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ***Tutorials to apply cross decomposition methods in Python (focus on application in neuroimaging)***
 
@@ -82,6 +82,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/fBeyer89"><img src="https://avatars2.githubusercontent.com/u/9799829?v=4" width="100px;" alt=""/><br /><sub><b>fBeyer89</b></sub></a><br /><a href="#ideas-fBeyer89" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://orcid.org/0000-0003-4652-3758"><img src="https://avatars1.githubusercontent.com/u/7570456?v=4" width="100px;" alt=""/><br /><sub><b>Sin Kim</b></sub></a><br /><a href="#ideas-AKSoo" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/LeonieBorne/plstuto/commits?author=AKSoo" title="Documentation">📖</a> <a href="#tutorial-AKSoo" title="Tutorials">✅</a></td>
   </tr>
 </table>
 
