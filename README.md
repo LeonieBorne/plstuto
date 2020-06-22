@@ -1,6 +1,6 @@
 # CCA/PLS tutorials in Python
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ***Tutorials to apply cross decomposition methods in Python (focus on application in neuroimaging)***
 
@@ -77,6 +77,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/likeajumprope"><img src="https://avatars0.githubusercontent.com/u/23728822?v=4" width="100px;" alt=""/><br /><sub><b>Johanna Bayer</b></sub></a><br /><a href="#ideas-likeajumprope" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/LeonieBorne/plstuto/commits?author=likeajumprope" title="Code">💻</a> <a href="#tutorial-likeajumprope" title="Tutorials">✅</a></td>
     <td align="center"><a href="https://github.com/diiobo"><img src="https://avatars3.githubusercontent.com/u/32033439?v=4" width="100px;" alt=""/><br /><sub><b>diiobo</b></sub></a><br /><a href="#ideas-diiobo" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/LeonieBorne/plstuto/commits?author=diiobo" title="Code">💻</a> <a href="#tutorial-diiobo" title="Tutorials">✅</a></td>
     <td align="center"><a href="https://github.com/nadinespy"><img src="https://avatars0.githubusercontent.com/u/46372572?v=4" width="100px;" alt=""/><br /><sub><b>nadinespy</b></sub></a><br /><a href="#ideas-nadinespy" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/LeonieBorne/plstuto/commits?author=nadinespy" title="Code">💻</a> <a href="#tutorial-nadinespy" title="Tutorials">✅</a></td>
+    <td align="center"><a href="https://github.com/IsabellaBreukelaar"><img src="https://avatars2.githubusercontent.com/u/16314387?v=4" width="100px;" alt=""/><br /><sub><b>IsabellaBreukelaar</b></sub></a><br /><a href="#ideas-IsabellaBreukelaar" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/LeonieBorne/plstuto/commits?author=IsabellaBreukelaar" title="Documentation">📖</a> <a href="#tutorial-IsabellaBreukelaar" title="Tutorials">✅</a></td>
   </tr>
 </table>
 
