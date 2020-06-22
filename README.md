@@ -1,4 +1,7 @@
 # CCA/PLS tutorials in Python
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 ***Tutorials to apply cross decomposition methods in Python (focus on application in neuroimaging)***
 
 Let's chat on <a href="https://mattermost.brainhack.org/brainhack/channels/pls-tuto">
@@ -59,3 +62,22 @@ You might be interested in:
 * **PLS-PM**: Partial Least Square Path Modeling
 * **PCA**: Principal Component Analysis
 * **ICA**: Independent Component Analysis
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/LeonieBorne"><img src="https://avatars0.githubusercontent.com/u/19991748?v=4" width="100px;" alt=""/><br /><sub><b>Léonie Borne</b></sub></a><br /><a href="#design-LeonieBorne" title="Design">🎨</a> <a href="https://github.com/LeonieBorne/plstuto/commits?author=LeonieBorne" title="Code">💻</a> <a href="#tutorial-LeonieBorne" title="Tutorials">✅</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
