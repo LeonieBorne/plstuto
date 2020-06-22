@@ -11,6 +11,11 @@ First of all, welcome! If you're here, it's because we probably have one thing i
 
 This project has been proposed during the [OHBM Hackathon 2020](https://ohbm.github.io/hackathon2020/) and should soon gather a set of tutorials to help the application of these methods (especially in neuroscience). 
 
+## Install dependencies
+```
+pip install -r requirements.txt
+```
+
 ## What are we doing?
 
 Cross decomposition algorithms look for the relations between two (or more) blocks of variables. These methods are particularly used in neuroimaging to analyze associations between physiological/behavioral variables and brain structure/function.
