@@ -80,6 +80,15 @@
         "review",
         "example"
       ]
+    },
+    {
+      "login": "fBeyer89",
+      "name": "fBeyer89",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/9799829?v=4",
+      "profile": "https://github.com/fBeyer89",
+      "contributions": [
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,

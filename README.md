@@ -1,6 +1,6 @@
 # CCA/PLS tutorials in Python
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ***Tutorials to apply cross decomposition methods in Python (focus on application in neuroimaging)***
 
@@ -79,6 +79,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/nadinespy"><img src="https://avatars0.githubusercontent.com/u/46372572?v=4" width="100px;" alt=""/><br /><sub><b>nadinespy</b></sub></a><br /><a href="#ideas-nadinespy" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/LeonieBorne/plstuto/commits?author=nadinespy" title="Code">💻</a> <a href="#tutorial-nadinespy" title="Tutorials">✅</a></td>
     <td align="center"><a href="https://github.com/IsabellaBreukelaar"><img src="https://avatars2.githubusercontent.com/u/16314387?v=4" width="100px;" alt=""/><br /><sub><b>IsabellaBreukelaar</b></sub></a><br /><a href="#ideas-IsabellaBreukelaar" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/LeonieBorne/plstuto/commits?author=IsabellaBreukelaar" title="Documentation">📖</a> <a href="#tutorial-IsabellaBreukelaar" title="Tutorials">✅</a></td>
     <td align="center"><a href="https://github.com/SaraMorsy"><img src="https://avatars2.githubusercontent.com/u/41592024?v=4" width="100px;" alt=""/><br /><sub><b>SaraMorsy</b></sub></a><br /><a href="#ideas-SaraMorsy" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/LeonieBorne/plstuto/pulls?q=is%3Apr+reviewed-by%3ASaraMorsy" title="Reviewed Pull Requests">👀</a> <a href="#example-SaraMorsy" title="Examples">💡</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/fBeyer89"><img src="https://avatars2.githubusercontent.com/u/9799829?v=4" width="100px;" alt=""/><br /><sub><b>fBeyer89</b></sub></a><br /><a href="#ideas-fBeyer89" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
