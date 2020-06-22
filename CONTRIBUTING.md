@@ -12,7 +12,7 @@ Scroll down or jump to one of the following sections:
 
 * [Share your thoughts](#share-your-thoughts)
 * [Make a change](#make-a-change)
-* [Recognising contributions](#recognising-contributions)
+* [Add yourself as a contributor](#add-yourself-as-a-contributor)
 * [Get in touch](#how-to-get-in-touch)
 
 ## Share your thoughts
@@ -51,6 +51,11 @@ Once you've identified one of the issues above that you feel you can contribute 
     A member of the executive team will review your changes, have a bit of discussion and hopefully merge them in!
 
 **Success!!** :balloon::balloon::balloon: Well done! And thank you :smiley::tada::sparkles:
+
+
+## Add yourself as a contributor
+
+Please feel free to add yourself as a contributor in the README of this project, even if your participation doesn't involve coding! Follow the hints [here](https://allcontributors.org/docs/en/bot/usage) to do so.
 
 ## How to get in touch
 
