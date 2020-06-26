@@ -21,9 +21,15 @@ pip install -r requirements.txt
 
 Cross decomposition algorithms look for the relations between two (or more) blocks of variables. These methods are particularly used in neuroimaging to analyze associations between physiological/behavioral variables and brain structure/function.
 Between unsupervised and supervised modeling, this family of algorithms has many members (e.g. CCA, PLS regression, PLS canonical, PLS-PM, etc.) and many approaches are possible to validate the trained model (e.g. cross validation, bootstrapping, permutation test, etc.).
-Here, we propose to write several Python tutorials to help the application and interpretation of these models in practice.
+Here, we propose several Python tutorials to help the application and interpretation of these models in practice.
 
-## Want to contribute?
+- [Tutorial: Introduction](tutorials/introduction.ipynb) This tutorial explains the general principles of cross-decomposition algorithms, their possible applications and practical considerations. It also give an overview of the different cross-decomposition algorithms that exist, including CCA, PLS regression, PLS canonical and PLS-PM.
+- [Tutorial: Data simulation](tutorials/cca_data_simulation.ipynb) This tutorial simulates data with different underlying structures and allow to see how this affects CCA results. This is an important step in understanding the usefulness and meaning of the method.
+- Tutorial: Data preprocessing *work in progress*
+- Tutorial: Data reduction *work in progress*
+- Tutorial: Model selection *work in progress*
+
+## Please help us to complete this set of tutorials!
 
 ### Who are we?
 
@@ -37,7 +43,7 @@ In order to help the development of this project, please check out the [contribu
 
 If you want to report a problem or suggest an enhancement we'd love for you to [open an issue](../../issues) at this github repository because then we can get right on it. But you can also contact [Léonie Borne](https://www.newcastle.edu.au/profile/leonie-borne-749) by email (leonie.borne AT gmail DOT com) or on [twitter](https://twitter.com/LeonieBorne).
 
-## Find out more
+### Find out more
 You might be interested in:
 
 * [Initial project proposition](https://github.com/ohbm/hackathon2020/issues/149)
