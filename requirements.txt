@@ -8,7 +8,7 @@ numpy==1.18.5
 packaging==20.4
 pandas==1.0.4
 patsy==0.5.1
-plspm==0.4.6
+plspm==0.5.1
 pyparsing==2.4.7
 python-dateutil==2.8.1
 pytz==2020.1
