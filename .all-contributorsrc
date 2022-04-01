@@ -1,0 +1,111 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "LeonieBorne",
+      "name": "Léonie Borne",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/19991748?v=4",
+      "profile": "https://github.com/LeonieBorne",
+      "contributions": [
+        "design",
+        "code",
+        "tutorial"
+      ]
+    },
+    {
+      "login": "htwangtw",
+      "name": "Hao-Ting Wang",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/13743617?v=4",
+      "profile": "https://wanghaoting.com/",
+      "contributions": [
+        "ideas",
+        "question"
+      ]
+    },
+    {
+      "login": "likeajumprope",
+      "name": "Johanna Bayer",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/23728822?v=4",
+      "profile": "https://github.com/likeajumprope",
+      "contributions": [
+        "ideas",
+        "code",
+        "tutorial"
+      ]
+    },
+    {
+      "login": "diiobo",
+      "name": "diiobo",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/32033439?v=4",
+      "profile": "https://github.com/diiobo",
+      "contributions": [
+        "ideas",
+        "code",
+        "tutorial"
+      ]
+    },
+    {
+      "login": "nadinespy",
+      "name": "nadinespy",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/46372572?v=4",
+      "profile": "https://github.com/nadinespy",
+      "contributions": [
+        "ideas",
+        "code",
+        "tutorial"
+      ]
+    },
+    {
+      "login": "IsabellaBreukelaar",
+      "name": "IsabellaBreukelaar",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/16314387?v=4",
+      "profile": "https://github.com/IsabellaBreukelaar",
+      "contributions": [
+        "ideas",
+        "doc",
+        "tutorial"
+      ]
+    },
+    {
+      "login": "SaraMorsy",
+      "name": "SaraMorsy",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/41592024?v=4",
+      "profile": "https://github.com/SaraMorsy",
+      "contributions": [
+        "ideas",
+        "review",
+        "example"
+      ]
+    },
+    {
+      "login": "fBeyer89",
+      "name": "fBeyer89",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/9799829?v=4",
+      "profile": "https://github.com/fBeyer89",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "AKSoo",
+      "name": "Sin Kim",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/7570456?v=4",
+      "profile": "https://orcid.org/0000-0003-4652-3758",
+      "contributions": [
+        "ideas",
+        "doc",
+        "tutorial"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "plstuto",
+  "projectOwner": "LeonieBorne",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
